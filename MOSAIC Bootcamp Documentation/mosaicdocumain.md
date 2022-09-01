@@ -13,7 +13,7 @@ Speakers, contributors, and participants travelled to Linz, Austria from all ove
 
 Seven student participants came on the invitation of Dr. Mirjana Videnovic-Misic to participate in the bootcamp. We were introduced to programmatic analog IC design and layout in the hopes of spreading the use of the paradigm in other organizations.
 
-<img src="\images\2022-08-26-13-49-25.png" style="width:75%;margin-left:auto;margin-right:auto;display:block">
+<img src="\images\IMG_20220817_174706.jpg" style="width:75%;margin-left:auto;margin-right:auto;display:block">
 
 Student Participants:
 
@@ -24,7 +24,7 @@ Student Participants:
 * University of the Philippines - Microlab Team
    * Ryan Antonio
    * Lawrence Quizon
-* Unibersidad Federico Santa Maria - AC3E Team
+* Universidad Técnica Federico Santa María - AC3E Team
    * Aquiles Viza
    * Kevin Pizarro
 
@@ -120,6 +120,11 @@ Offline Participants:
     </div>
     <div class="wrapper" style="grid-area:12/2;align-self:center"><iframe style="width:100%;height:181px" src="https://www.youtube.com/embed/5t78kJ991js?list=PLXTGiaUILPlX6tQz377Hqm6DnZw2G7RzS" title="Producing Layout with KLayout session 1 | Matthias Koefferlein | MOSAIC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+    <div class="wrapper" style="grid-area:13/1;align-self:center">
+   <b>Ayan Biswas</b>, the current lead developer of BAG3, discussed the details of the BAG3 workflow- how it's different from BAG2 and what they've added (EM simulation, partial layout, design loops). He also discusses the BWRC projects that have used it, including his own, and his opinion on the effectiveness of the paradigm.
+   </div>
+   <div class="wrapper" style="grid-area:13/2;align-self:center"><iframe style="width:100%;height:181px" src="https://www.youtube.com/embed/Lim_A1x9yQM" title="Generator based Design Methodology using BAG 3.0 | Ayan Biswas | MOSAIC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
 </div>
 <br>
 <br>
@@ -229,6 +234,19 @@ Taeho Shin
 Aquiles Viza
 
 > This is very important for AC3E, because it is cooperation outside the bubble. It was very interesting to hear different POVs about the tools from people with different backgrounds (Digital, Software, Analog only, Layout generation people.)
+
+Kevin Pizarro
+
+> Before the Bootcamp I had only a little bit of knowledge about the analog generators or the vision that everyone is pursuing. It was with the presentation of Boris Murmann where I put my feet on the ground, and I realized what is needed and which is the chosen way, changing the paradigm. It was super interesting begin with not knowing LAYGO2, even LAYGO, to learn the basis and how to use LAYGO2, investigate and learn other tools like KLayout or about Analog Base, understand the MOSAIC ambition and look for the convergency of a common solution, not to reinvent the wheel.
+>
+> Thank you to everyone that participate in the Bootcamp, to NiftyLabs for teaching us about the mighty tool that is LAYGO2, to Ryan and Lawrence for been so supportive and great teammates, to Fatemeh and Martin for teaching us about Analog Base,to Matthias for the brilliant tool that is KLayout, to Infineon team with MOSAIC and to Mirjana that makes this Bootcamp possible, this amazing experience. In summary, thank you all, everyone contributes something to this. I hope that we can keep collaborate and help to each other, following the vision of the automated IC design, from a programmatic perspective.
+
+Ryan Antonio
+
+>The MOSAIC bootcamp was an an inspiring event! It had a diverse collaboration between universities and indusries from different countries.
+>
+>I actually learned and experienced more than what I anticipated. It was inspiring to see how professionals help each other in developing an open-source community. The tools are free, the knowledge are free, and you get an abundant amount of support. This is the step forward to make programmatic IC design a part of the current college curriculums. On top of that, I am convinced that programmatic IC design improves the productivity of a designer. I am not really good with layouts but after this bootcamp, I could immediately draw and see my circuits after coding the floorplan in a few mins! This truly was a great experience. I will never forget this opportunity 🙂
+
 
 ## Tutorials and notes
 

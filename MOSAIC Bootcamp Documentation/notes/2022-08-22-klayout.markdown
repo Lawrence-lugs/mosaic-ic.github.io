@@ -1,6 +1,6 @@
 ---
 title: Getting started with KLayout
-layout: post
+layout: mosaic
 date: '2022-08-22 1:00:52 +0200'
 categories:
 - learningnotes

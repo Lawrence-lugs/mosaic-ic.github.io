@@ -1,6 +1,6 @@
 ---
 title: The Fifty Nifty Two-Transistor Circuit Variations
-layout: post
+layout: mosaic
 date: '2022-08-23 11:20:52 +0200'
 categories:
 - learningnotes

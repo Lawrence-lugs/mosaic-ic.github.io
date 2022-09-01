@@ -1,6 +1,6 @@
 ---
 title: Writing your first AnalogBase virtuoso-template generator - Regulated Cascode
-layout: post
+layout: mosaic
 date: '2022-08-23 13:10:00 +0200'
 categories:
 - learningnotes

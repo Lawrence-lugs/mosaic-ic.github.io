@@ -1,6 +1,6 @@
 ---
 title: "PHD with BAG: Thoughts and experiences, Santerri Porrasmaa"
-layout: post
+layout: mosaic
 date: '2022-08-24 10:00:00 +0200'
 categories:
 - learningnotes
