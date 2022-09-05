@@ -229,7 +229,8 @@ Lawrence Quizon
 
 Taeho Shin
 
-> I've found that you all are very inspired people, and I'm very glad to have come to this bootcamp and shown you LAYGO2, and also to have learned about AnalogBase and the other analog generation tools. It makes me happy to discovering that people want to learn about LAYGO2.
+> The most valuable discovery of this bootcamp is that all participants are professional in their own fields and inspired when they are working on enabling open-source IC design. I’m very glad to have the chances to teach LAYGO2, which is a powerful framework for programmatic IC design, to the participants of the bootcamp. Also, I could have learned about various perspectives of other participants on automatic analog IC design. Joining this bootcamp is definitely the turning point of my IC design experience.
+
 
 Aquiles Viza
 
@@ -247,6 +248,13 @@ Ryan Antonio
 >
 >I actually learned and experienced more than what I anticipated. It was inspiring to see how professionals help each other in developing an open-source community. The tools are free, the knowledge are free, and you get an abundant amount of support. This is the step forward to make programmatic IC design a part of the current college curriculums. On top of that, I am convinced that programmatic IC design improves the productivity of a designer. I am not really good with layouts but after this bootcamp, I could immediately draw and see my circuits after coding the floorplan in a few mins! This truly was a great experience. I will never forget this opportunity 🙂
 
+Youngmin Oh
+
+>As an analog circuit designer I had only a little experience about design automation and programming languages. It was a wonderful opportunity where I could learn more about different open-source and design automation tools.
+
+Seonghyun Park
+
+>This bootcamp is one step closer to open-source analog IC design. Although good open-source software has already been developed, the absence of documentation makes it hard for analog circuit designers to use them. In addition, it's more difficult to access them as the community is not active, unlike the software field. I have learned about different perspectives as well as approaches for research from bootcamp participants with different background and experience.
 
 ## Tutorials and notes
 
